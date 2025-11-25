@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "city_d"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c6c4400-be63-4021-9127-d638a218a720"
+  }
+}
